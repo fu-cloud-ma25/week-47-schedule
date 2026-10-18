@@ -3,18 +3,21 @@
 
 ## Introduktion
 
-Hur bygger och driftsätter man moderna applikationer utan att behöva hantera egna servrar? Den här veckan introducerar vi molnbaserad utveckling och serverlessarkitektur.
+Hur säkerställer vi att rätt användare får tillgång till rätt information i våra API:er? Den här veckan fokuserar vi på säkerhet och lär oss hur vi kan skydda våra endpoints med hjälp av autentisering, auktorisering och validering.
 
-Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur Serverless Framework hjälper oss att utveckla och driftsätta serverlessapplikationer direkt från vår lokala dator. Under veckan bygger vi våra första Lambda-funktioner och får en överblick över hur hela kursens arkitektur kommer att se ut.
+
+Vi går igenom hur registrering och inloggning fungerar, hur lösenord kan lagras säkert och hur JWT används för att identifiera användare. Vi bygger även vidare på våra kunskaper om Middy genom att skapa egna middlewares för att kontrollera behörigheter, validera inkommande data och skydda våra API:er.
 
 ## Mål för veckan:
 
-1. Förstå grunderna i molnbaserad utveckling.
-2. Förstå skillnaden mellan traditionell serverdrift och serverless.
-3. Förstå hur en serverlessarkitektur är uppbyggd.
-4. Installera och konfigurera AWS CLI och Serverless Framework.
-5. Skapa och deploya ett serverlessprojekt.
-5. Skriva och driftsätta en första Lambda-funktion.
+1. Förstå skillnaden mellan autentisering och auktorisering.
+2. Implementera registrering och inloggning av användare.
+3. Förstå hur lösenord hashats och lagras säkert.
+4. Skapa och verifiera JWT för autentisering.
+5. Skydda endpoints så att endast autentiserade användare får tillgång.
+6. Implementera grundläggande auktorisering och behörighetskontroller.
+7. Validera inkommande data med exempelvis Zod.
+8. Skapa egna middlewares med Middy för autentisering, auktorisering och validering.
 
 
 ## Resurser
@@ -32,15 +35,11 @@ Vi sätter upp vår utvecklingsmiljö, skapar våra AWS-konton och lär oss hur 
 
 ### Lektionsrepon
 
-* [20 okt]()
+* []()
 
 ### Länkar
 
 * [AWS CLI Cheat Sheet]()
 
 ### Övningar 
-
-* [IAM Bootcamp]()
-* [Lambda Bootcamp]()
-* [Serverless Framework Bootcamp]()
 
