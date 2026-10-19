@@ -12,7 +12,7 @@ Vi går igenom hur registrering och inloggning fungerar, hur lösenord kan lagra
 
 1. Förstå skillnaden mellan autentisering och auktorisering.
 2. Implementera registrering och inloggning av användare.
-3. Förstå hur lösenord hashats och lagras säkert.
+3. Förstå hur lösenord hashas och lagras säkert.
 4. Skapa och verifiera JWT för autentisering.
 5. Skydda endpoints så att endast autentiserade användare får tillgång.
 6. Implementera grundläggande auktorisering och behörighetskontroller.
