@@ -29,7 +29,7 @@ Vi går igenom hur registrering och inloggning fungerar, hur lösenord kan lagra
 
 ### Lektionsrepon
 
-* []()
+* [17 nov]()
 
 ### Övningar 
 
