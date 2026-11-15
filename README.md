@@ -22,11 +22,6 @@ Vi går igenom hur registrering och inloggning fungerar, hur lösenord kan lagra
 
 ## Resurser
 
-### Presentationer
-
-* 01 - []()
-
-
 ### Inspelade föreläsningar
 
 **Lektionsinspelat**
@@ -42,4 +37,6 @@ Vi går igenom hur registrering och inloggning fungerar, hur lösenord kan lagra
 * [AWS CLI Cheat Sheet]()
 
 ### Övningar 
+
+* [Auth bootcamp](https://github.com/fu-cloud-ma25/week-47-exercise-auth-bootcamp)
 
