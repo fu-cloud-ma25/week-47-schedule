@@ -27,14 +27,9 @@ Vi går igenom hur registrering och inloggning fungerar, hur lösenord kan lagra
 **Lektionsinspelat**
 * 01 - []()
 
-
 ### Lektionsrepon
 
 * []()
-
-### Länkar
-
-* [AWS CLI Cheat Sheet]()
 
 ### Övningar 
 
