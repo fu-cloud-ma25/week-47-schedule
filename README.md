@@ -22,10 +22,14 @@ Vi går igenom hur registrering och inloggning fungerar, hur lösenord kan lagra
 
 ## Resurser
 
+### Presentationer
+
+* 01 - [Webbsäkerhet](https://docs.google.com/presentation/d/1XvKUqiJJLmn90AFKaf7Vgk4-dpBGUQ3h/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+
 ### Inspelade föreläsningar
 
 **Lektionsinspelat**
-* 01 - [Webbsäkerhet](https://docs.google.com/presentation/d/1XvKUqiJJLmn90AFKaf7Vgk4-dpBGUQ3h/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Säkerhet med Auth och Validering](https://funet.sharepoint.com/:v:/s/MobilapplikationsutvecklareYhdistans-Klass25/IQCi8M0dXX-lRb1K0O-b8--LAYOdDDb3HkLO1L8Vh_XXch0?e=cH4C3Z)
 
 ### Lektionsrepon
 
