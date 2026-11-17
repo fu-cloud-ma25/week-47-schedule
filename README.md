@@ -25,11 +25,11 @@ Vi går igenom hur registrering och inloggning fungerar, hur lösenord kan lagra
 ### Inspelade föreläsningar
 
 **Lektionsinspelat**
-* 01 - []()
+* 01 - [Webbsäkerhet](https://docs.google.com/presentation/d/1XvKUqiJJLmn90AFKaf7Vgk4-dpBGUQ3h/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Lektionsrepon
 
-* [17 nov]()
+* [17 nov](https://github.com/fu-cloud-ma25/week-47-lecture-17-nov)
 
 ### Övningar 
 
